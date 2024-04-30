@@ -13,7 +13,8 @@ Proyecto JavaFX NetBeans de IPC
   Seleccionar "Git GUI Here"
 
   Para añadir los cambios que hizo alguno en el proyecto:
-    Merge -> Local merge -> merge (default)
+    Remote -> Fetch from -> origin
+    Merge -> Local merge... -> merge (default)
 
   Para subir cambios que has hecho en el proyecto (Opciones de abajo):
     Rescan -> Stage Changed -> Commit (escribir nombre del cambio *cualquier cosa*) -> Push
