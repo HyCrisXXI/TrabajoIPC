@@ -1,7 +1,7 @@
 # TrabajoIPC
 Proyecto JavaFX NetBeans de IPC
 
-1º) Click derecho en la carpeta que contiene el proyecto
+1Âº) (SÃ³lo la primera vez) Click derecho en una carpeta vacÃ­a "Trabajo IPC"
   Seleccionar "Git Bash Here"
   Escribir:
     git init
@@ -9,10 +9,10 @@ Proyecto JavaFX NetBeans de IPC
     git pull origin master
 
 
-2º) Click derecho en la carpeta que contiene el proyecto
+2Âº) Click derecho en la carpeta que contiene el proyecto
   Seleccionar "Git GUI Here"
 
-  Para añadir los cambios que hizo alguno en el proyecto:
+  Para aÃ±adir los cambios que hizo alguno en el proyecto:
     Remote -> Fetch from -> origin
     Merge -> Local merge... -> merge (default)
 
