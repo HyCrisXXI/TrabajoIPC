@@ -1,4 +1,4 @@
-# TrabajoIPC
+﻿# TrabajoIPC
 Proyecto JavaFX NetBeans de IPC
 
 1º) (Sólo la primera vez) Click derecho en una carpeta vacía "Trabajo IPC"
@@ -18,3 +18,4 @@ Proyecto JavaFX NetBeans de IPC
 
   Para subir cambios que has hecho en el proyecto (Opciones de abajo):
     Rescan -> Stage Changed -> Commit (escribir nombre del cambio *cualquier cosa*) -> Push
+cxrsdtfyuioi
